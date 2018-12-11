@@ -7,4 +7,4 @@ The production site will contain several features:
 4. Realtor page
 5. Backend Management (Admin page)
 
-![alt text](/static/img/readme-ss.png)
+![alt text](/readme-ss.png)
