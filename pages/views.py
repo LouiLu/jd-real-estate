@@ -13,7 +13,6 @@ def index(request):
       'bedroom_choices': bedroom_choices,
       'price_choices': price_choices,
    }
-   print(context)
 
    return render(request, 'pages/index.html', context)
 
